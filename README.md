@@ -55,4 +55,5 @@ npm install
 vercel dev
 ```
 This runs the same serverless functions locally at `http://localhost:3000`,
-reading env vars from a local `.env` file if you create one.
+reading env vars from a local `.env` file if you create  one.
+ 
